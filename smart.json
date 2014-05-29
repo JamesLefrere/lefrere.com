@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "Mesosphere": {},
+    "scss": {},
+    "underscore-string-latest": {},
+    "iron-router": {},
+    "fastclick": {},
+    "normalize.css": {},
+    "managedUsers": {},
+    "marked": {},
+    "fast-render": {},
+    "iron-router-progress": {}
+  }
+}

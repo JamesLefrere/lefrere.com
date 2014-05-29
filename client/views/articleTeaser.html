@@ -1,0 +1,8 @@
+<template name="articleTeaser">
+  <article class="article-teaser">
+    <h3 class="title"><a href="/articles/{{slug}}">{{title}}</a></h3>
+    <div class="body">
+      {{#markdown}}{{body}}{{/markdown}}
+    </div>
+  </article>
+</template>
